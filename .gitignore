@@ -1,0 +1,11 @@
+.env
+.venv/
+venv/
+models/
+debug/
+__pycache__/
+*.pyc
+entries.json
+*.mp3
+*.wav
+.DS_Store

@@ -1,0 +1,12 @@
+.venv/
+models/
+__pycache__/
+entries.json
+server.log
+part_*.bin
+.env
+test_audio.mp3
+mock_llm.py
+make_test_audio.py
+download_model.sh
+download_to.sh
